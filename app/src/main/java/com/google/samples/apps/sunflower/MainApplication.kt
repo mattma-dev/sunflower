@@ -21,3 +21,5 @@ import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
 class MainApplication : Application()
+
+// https://github.com/android/sunflower
